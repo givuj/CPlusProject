@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\CPlusProject\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F43817F-11BA-4E42-9CDB-A0B46B220DDB}|Project1\\Project1.vcxproj|C:\\GitHub\\CPlusProject\\Project1\\Project1\\Project1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F43817F-11BA-4E42-9CDB-A0B46B220DDB}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Project1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project1.cpp",
+              "DocumentMoniker": "C:\\GitHub\\CPlusProject\\Project1\\Project1\\Project1.cpp",
+              "RelativeDocumentMoniker": "Project1\\Project1.cpp",
+              "ToolTip": "C:\\GitHub\\CPlusProject\\Project1\\Project1\\Project1.cpp",
+              "RelativeToolTip": "Project1\\Project1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-13T00:46:53.991Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
